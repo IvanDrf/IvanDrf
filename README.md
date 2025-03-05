@@ -20,4 +20,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-![NightCoding](https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60)
+ ![](https://github-readme-stats.vercel.app/api?username=IvanDrf&show_icons=true&theme=vue-dark) ![NightCoding](https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60) 
+
+
