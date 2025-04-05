@@ -5,7 +5,7 @@
 
 ## <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 - 🔭&nbsp;I like to learn new technologies and develop in IT
-- ⚡&nbsp;I’m currently learning **С++**
+- ⚡&nbsp;I’m currently learning **GO**
 - ✍️&nbsp;I'm currently studying at BMSTU
 - 💡&nbsp;I looking for some pet projects and new knowledge
 - ✉️&nbsp;You can shoot me an email at ivandrfvs@gmail.com I'll try to respond as soon as I can.
