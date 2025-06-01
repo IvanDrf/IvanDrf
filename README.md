@@ -22,3 +22,4 @@
 
 
  ![](https://github-readme-stats.vercel.app/api?username=IvanDrf&show_icons=true&theme=vue-dark) ![NightCoding](https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60) 
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru)
