@@ -20,6 +20,8 @@
   ![GitHub](https://github.com/user-attachments/assets/e22f86ca-aaed-45ac-97d0-ec2fc2918241)
   ![CMake](https://github.com/user-attachments/assets/ee891558-7dbd-47ec-8197-1caf11fcc51f)
   ![arch](https://github.com/user-attachments/assets/4fb1bbf4-4381-4794-89da-9e855a0aa298)
+  ![docker](https://github.com/user-attachments/assets/731e2841-2a0f-4411-8710-bd4d52118c41)
+
 
  ![](https://github-readme-stats.vercel.app/api?username=IvanDrf&show_icons=true&theme=vue-dark) ![NightCoding](https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60) 
  ![LeetCode Stats](https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru)
