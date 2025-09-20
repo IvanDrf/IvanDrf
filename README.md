@@ -22,6 +22,25 @@
   ![arch](https://github.com/user-attachments/assets/4fb1bbf4-4381-4794-89da-9e855a0aa298)
   ![docker](https://github.com/user-attachments/assets/731e2841-2a0f-4411-8710-bd4d52118c41)
 
+## <h3> ❄️ &nbsp;Stats</h3>
 
- ![](https://github-readme-stats.vercel.app/api?username=IvanDrf&show_icons=true&theme=vue-dark) ![NightCoding](https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60) 
- ![LeetCode Stats](https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru)
+<table>
+  <tr>
+    <!-- Первая строка -->
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=IvanDrf&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10" width="600%" />
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Вторая строка -->
+    <td>
+      <img src="https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru&hide_border=true&border_radius=10"  />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDrf&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
+    </td>
+  </tr>
+</table>
