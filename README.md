@@ -19,9 +19,6 @@
   ![Git](https://github.com/user-attachments/assets/b0e252a9-14d7-4e01-9975-96f54689f154)
   ![GitHub](https://github.com/user-attachments/assets/e22f86ca-aaed-45ac-97d0-ec2fc2918241)
   ![CMake](https://github.com/user-attachments/assets/ee891558-7dbd-47ec-8197-1caf11fcc51f)
-  ![arch](https://github.com/user-attachments/assets/4fb1bbf4-4381-4794-89da-9e855a0aa298)
-  ![docker](https://github.com/user-attachments/assets/731e2841-2a0f-4411-8710-bd4d52118c41)
-  ![postgresql](https://github.com/user-attachments/assets/a07f6275-7194-42fe-8b58-b297cf24ae24)
 
 ## <h3> ❄️ &nbsp;Stats</h3>
 
