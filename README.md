@@ -3,14 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+Ivan!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-
-
 ## <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 - 🔭&nbsp;I like to learn new technologies and develop in IT
 - ⚡&nbsp;I’m currently learning **GO**
 - ✍️&nbsp;I'm currently studying at BMSTU
 - 💡&nbsp;I looking for some pet projects and new knowledge
 - ✉️&nbsp;You can shoot me an email at ivandrfvs@gmail.com I'll try to respond as soon as I can.
+
 
 ## <h3> 🛠 &nbsp;Tech Stack</h3>
   ![Python](https://github.com/user-attachments/assets/fa238c3c-fe1d-40e9-970f-80d7509fccbf)
@@ -21,6 +20,8 @@
   ![CMake](https://github.com/user-attachments/assets/ee891558-7dbd-47ec-8197-1caf11fcc51f)
 
 ## <h3> ❄️ &nbsp;Stats</h3>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IvanDrf&theme=onedark&no-frame=true" width="94.5%">
 
 <table>
   <tr>
@@ -42,3 +43,5 @@
     </td>
   </tr>
 </table>
+
+
