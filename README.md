@@ -21,7 +21,7 @@
 
 ## <h3> ❄️ &nbsp;Stats</h3>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IvanDrf&theme=onedark&no-frame=true" width="94.5%">
+<img src="https://github-profile-trophy.vercel.app/?username=IvanDrf&theme=onedark&no-frame=true" width="100%">
 
 <table>
   <tr>
