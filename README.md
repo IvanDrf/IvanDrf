@@ -26,16 +26,16 @@
   <tr>
     <!-- Первая строка -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=IvanDrf&show_icons=true&theme=vue-dark&hide_border=true&border_radius=10" width="600%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanDrf&theme=react" width="600" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60" width="100%" />
+      <img src="https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60" width="300" />
     </td>
   </tr>
   <tr>
     <!-- Вторая строка -->
     <td>
-      <img src="https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru&hide_border=true&border_radius=10"  />
+      <img src="https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru&hide_border=true&border_radius=10" width=600 />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDrf&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
