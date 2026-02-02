@@ -20,6 +20,8 @@
   ![RabbitMQ](https://github.com/user-attachments/assets/e86dc0f7-3806-43f2-b9e3-5bae5e53e227)
   ![Redis](https://github.com/user-attachments/assets/514cc383-e75d-4412-bea4-d086ffcb40aa)
   ![GRPC](https://github.com/user-attachments/assets/6d4e6ffb-d814-4095-b958-296a62ccc582)
+  ![FASTAPI](https://github.com/user-attachments/assets/3e0a9ec1-15a5-4e41-95a8-03379621b82f)
+
 
 
 ## <h3> ❄️ &nbsp;Stats</h3>
