@@ -17,11 +17,11 @@
   ![GitHub](https://github.com/user-attachments/assets/e22f86ca-aaed-45ac-97d0-ec2fc2918241)
   ![CMake](https://github.com/user-attachments/assets/ee891558-7dbd-47ec-8197-1caf11fcc51f)
   ![SQLite](https://github.com/user-attachments/assets/8cc6d62c-fc30-4200-bbae-e0a5bcc235fb)
+  ![PostgreSQL](https://github.com/user-attachments/assets/a3257c1e-2450-4eea-b12d-1658e0a8888e)
   ![RabbitMQ](https://github.com/user-attachments/assets/e86dc0f7-3806-43f2-b9e3-5bae5e53e227)
   ![Redis](https://github.com/user-attachments/assets/514cc383-e75d-4412-bea4-d086ffcb40aa)
   ![GRPC](https://github.com/user-attachments/assets/6d4e6ffb-d814-4095-b958-296a62ccc582)
   ![FASTAPI](https://github.com/user-attachments/assets/3e0a9ec1-15a5-4e41-95a8-03379621b82f)
-
 
 
 ## <h3> ❄️ &nbsp;Stats</h3>
