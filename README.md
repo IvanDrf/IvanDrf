@@ -1,15 +1,15 @@
-<h1 align="center">🚀 JUNIOR BACKEND DEVELOPER 🚀</h1>
+<h1 align="center"> JUNIOR BACKEND DEVELOPER </h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello+there!+I'm+Ivan!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-## <h3> 👨🏻‍💻 &nbsp;About Me</h3>
+## <h3> &nbsp;About Me</h3>
 - &nbsp;I like to learn new technologies and develop in IT, BMSTU student
 - &nbsp;I’m currently learning **GO**/**Python**
 - &nbsp;You can shoot me an email at ivandrfvs@gmail.com I'll try to respond as soon as I can.
 
 
-## <h3> 🛠 &nbsp;Tech Stack</h3>
+## <h3> &nbsp;Tech Stack</h3>
   ![Python](https://github.com/user-attachments/assets/fa238c3c-fe1d-40e9-970f-80d7509fccbf)
   ![C++](https://github.com/user-attachments/assets/e12179ca-bdbd-4849-b620-813e5718223a)
   ![GO](https://github.com/user-attachments/assets/6ffd7f9a-9887-4243-b915-fdad9aadb14a)
@@ -24,7 +24,7 @@
   ![FASTAPI](https://github.com/user-attachments/assets/3e0a9ec1-15a5-4e41-95a8-03379621b82f)
 
 
-## <h3> ❄️ &nbsp;Stats</h3>
+## <h3> &nbsp;Stats</h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=IvanDrf&theme=onedark&no-frame=true" width="100%">
 
