@@ -24,10 +24,6 @@
   ![FASTAPI](https://github.com/user-attachments/assets/3e0a9ec1-15a5-4e41-95a8-03379621b82f)
 
 
-## <h3> &nbsp;Stats</h3>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IvanDrf&theme=onedark&no-frame=true" width="100%">
-
 <table>
   <tr>
     <!-- Первая строка -->
