@@ -31,7 +31,7 @@
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanDrf&theme=react" width="600" />
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60" width="300" />
+      <img src="https://github.com/user-attachments/assets/d94b9a76-b3f6-41c6-b8b6-924fca4a6c60" width="250" />
     </td>
   </tr>
   <tr>
