@@ -40,7 +40,8 @@
       <img src="https://leetcard.jacoblin.cool/IvanDrf?theme=nord&font=Kosugi%20Maru&hide_border=true&border_radius=10" width=600 />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanDrf&layout=compact&theme=dracula&hide_border=true&border_radius=10" />
+      <img width="300" height="300" alt="Cowboy Bebop pfp" src="https://github.com/user-attachments/assets/8a337bc5-f929-4d6f-8335-cd4f435bdbdc" />
+      <!-- <img src="https://github.com/user-attachments/assets/e804a91a-fa76-4370-9c9b-c11f19e355f0" width=300 height=250 /> -->
     </td>
   </tr>
 </table>
